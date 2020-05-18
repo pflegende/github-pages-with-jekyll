@@ -1,5 +1,5 @@
 
-![logoPflegende](/LogoBunt%20100x100.jpg)
+![logoPflegende](LogoBunt 100x100.jpg)
 # Schön, dass Sie hierher gefunden haben!
 
 Sie befinden sich auf einer "Filiale" der Website der pflegenden Angehörigen SG aus Erfurt.
