@@ -1,13 +1,13 @@
-title: ACHTSAMKEIT & RESPEKT
-author: Pflegende
+---
+title: "ACHTSAMKEIT & RESPEKT"
+author: pflegende
 email: unsere Mailadresse finden Sie auf der verlinkten Seite
 description: > # this means to ignore newlines until "baseurl:"
-  Pflege wird unterschätzt. Wir gehen dagegen an.
-  Demenz Pflege Pflegekatastrophe SPA Defizite Achtsamkeit
-  Selbsthilfe Ehrenamt Charity Care Healthcare AD 
+  Pflege wird unterschätzt. Wir gehen dagegen an. Demenz Pflege Pflegekatastrophe SPA Defizite Achtsamkeit Selbsthilfe Ehrenamt Charity Care Healthcare AD 
 
 # social links
 github_username:  pflegende # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+---
